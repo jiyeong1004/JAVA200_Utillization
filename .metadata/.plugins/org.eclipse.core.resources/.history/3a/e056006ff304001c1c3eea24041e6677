@@ -1,0 +1,10 @@
+package kr.co.infopub.chapter.s082;
+
+public class BillboardMain1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
