@@ -18,7 +18,7 @@ public class BillboardMain2 {
 	
 	public static void showAbout(Billboard bb) {
 		String sf = String.format("%d, %s, %d, %s, %s", bb.getRank(), bb.getSong(), 
-				bb.getLastweek(), bb.getImagesrc(), bb.getArtist());
+				bb.getLastweek(), bb.getImagesrc(), bb.getArist());
 		System.out.println(sf);
 	}
 }

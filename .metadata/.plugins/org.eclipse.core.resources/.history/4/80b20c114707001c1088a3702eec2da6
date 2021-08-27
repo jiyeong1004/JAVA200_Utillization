@@ -1,7 +1,5 @@
 package kr.co.infopub.chapter.s083;
 
-import java.io.Serializable;
-
 public class Billboard implements Serializable {
 	private int rank;  // ¼øÀ§
 	private String song;  // °î¸í

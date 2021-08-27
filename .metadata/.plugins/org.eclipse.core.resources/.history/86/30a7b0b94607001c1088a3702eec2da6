@@ -1,7 +1,5 @@
 package kr.co.infopub.chapter.s083;
 
-import java.io.Serializable;
-
 public class Billboard implements Serializable {
 	private int rank;  // ¼øÀ§
 	private String song;  // °î¸í
@@ -59,27 +57,5 @@ public class Billboard implements Serializable {
 		this.lastweek = lastweek;
 	}
 	
-	public String getImagesrc() {
-		return imagesrc;
-	}
 	
-	public void setImagesrc(String imagesrc) {
-		this.imagesrc = imagesrc;
-	}
-	
-	public String getArtistsrc() {
-		return artistsrc;
-	}
-	
-	public void setArtistsrc(String artistsrc) {
-		this.artistsrc = artistsrc;
-	}
-	
-	public String getArtist() {
-		return artist;
-	}
-	
-	public void setArtist(String artist) {
-		this.artist = artist;
-	}
 }
