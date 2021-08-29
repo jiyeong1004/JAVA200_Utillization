@@ -1,0 +1,11 @@
+package kr.co.infopub.chapter.s086;
+
+import kr.co.infopub.chapter.s083.Billboard;
+
+public class BillFileWriter {
+
+	public static void main(String[] args) {
+		Billboard b1 = new Billboard(1, "Despacito", 1, 
+				"https://www.billboard.com/images/pref_images/q61808osztw.jpg", "luis fonsi");
+	}
+}

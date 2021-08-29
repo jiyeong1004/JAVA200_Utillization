@@ -1,0 +1,3 @@
+[rank = 1, song = Despacito, lastweek = 1, imagesrc = https://www.billboard.com/images/pref_images/q61808osztw.jpg, artist = luis fonsi]
+[rank = 2, song = That's What I Like, lastweek = 2, imagesrc = https://www.billboard.com/images/pref_images/q59725qvpol.jpg, artist = bruno mars]
+[rank = 3, song = I'm The One, lastweek = 3, imagesrc = https://www.billboard.com/images/pref_images/q64532p164.jpg, artist = dj khaled]
