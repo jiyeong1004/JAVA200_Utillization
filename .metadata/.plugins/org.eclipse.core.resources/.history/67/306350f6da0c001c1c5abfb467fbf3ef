@@ -1,0 +1,11 @@
+// 092. 찾으려는 날짜의 빌보드 차트를 리스트에 저장하기
+package kr.co.infopub.chapter.s092;
+
+public class RequestFromBillboardHot {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

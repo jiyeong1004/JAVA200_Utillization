@@ -1,8 +1,0 @@
-package kr.co.infopub.chapter.s086;
-
-public class BillFileWriter {
-
-	public static void main(String[] args) {
-		
-	}
-}
