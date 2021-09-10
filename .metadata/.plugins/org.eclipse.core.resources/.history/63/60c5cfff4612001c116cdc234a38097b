@@ -1,6 +1,6 @@
-package kr.co.infopub.chapter.s088;
+package kr.co.infopub.chapter.s096;
 
-public class BillFiles {
+public class BillboardPrint {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
