@@ -33,13 +33,6 @@ public class BillboardPrint {
 	
 	// "key":"value"
 	private static String pair(String key, String value) {
-		String ss = String.format("\"%s\":\"%s\"", key, value);
-		return ss;
-	}
-	
-	// {"key":"value"}
-	private static String pairs(String key, String value){
-		String ss = String.format("{\"%s\":\"%s\"}", key, value);
-		return ss;
+		String ss = String format("\"%s\":\"%s\"", key, value);
 	}
 }
