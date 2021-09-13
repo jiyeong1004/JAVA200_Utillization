@@ -1,6 +1,6 @@
-package kr.co.infopub.chapter.s093;
+package kr.co.infopub.chapter.s095;
 
-public class RequestFromBillboardHot {
+public class BillboardMain6 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
