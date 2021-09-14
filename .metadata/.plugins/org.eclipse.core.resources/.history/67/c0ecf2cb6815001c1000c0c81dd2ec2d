@@ -1,0 +1,22 @@
+package kr.co.infopub.chapter.s095;
+
+import java.io.BufferedReader;
+import java.io.FileReader;
+
+// json
+public class BillboardMain8 {
+
+	public static void main(String[] args) {
+		BufferedReader br = null;
+		try {
+			br = new BufferedReader(new FileReader("billboard\\2018-06-02.json"));
+			StringBuffer sb = new StringBuffer();
+			String msg = "";
+			while((msg = br.readLine()) != null) {
+				sb.append(msg);
+			}
+			JSONObject billboards = new JSONObject(sb.toString());
+			JSONArray 
+		}
+	}
+}
